@@ -4,6 +4,10 @@
 
 **项目链接**: [Anime.com](https://www.anime.com)
 
+<p align="center">
+  <img src="https://ice.frostsky.com/2024/09/14/85862c82caae7b9640e7d8a165357cf3.gif" alt="有趣的GIF" />
+</p>
+
 ---
 
 ## 📦 使用方法
