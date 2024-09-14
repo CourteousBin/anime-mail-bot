@@ -1,0 +1,27 @@
+{
+  "name": "anime-mail-bot",
+  "version": "1.0.0",
+  "description": "Azuki Anime 网站的批量邮箱注册脚本，自动化获取白名单，简化注册流程",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "generateImapConfig": "node generateImapConfig.mjs"
+  },
+  "keywords": [
+    "anime",
+    "邮箱注册",
+    "自动化",
+    "批量处理",
+    "白名单",
+    "puppeteer",
+    "脚本"
+  ],
+  "author": "Bingo",
+  "license": "MIT",
+  "dependencies": {
+    "imap": "^0.8.19",
+    "mailparser": "^3.7.1",
+    "puppeteer-core": "^23.3.0"
+  }
+}
