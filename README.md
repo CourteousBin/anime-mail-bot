@@ -30,7 +30,18 @@
    - 确保 `host` 设置与您的邮箱服务提供商一致。
    - 如果 `host` 不一致，请在 `generateImapConfig.js` 的第 18 行进行修改。
 
-5. **启动脚本**  
+6. **配置 Chrome 默认地址**  
+
+   查看 `index.js` 87 行浏览器默认地址：
+   ```
+   MAC:
+   /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+
+   WIN:
+   C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe
+   ```
+
+7. **启动脚本**  
    运行以下命令开始执行脚本：
    ```bash
    npm run start
